@@ -1,0 +1,18 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# node
+node_modules/
+dist/
+
+# editor / local tools
+.vscode/
+.idea/
+.claude/
+.vercel/
+
+# my own notes for the demo video (not part of the submission)
+VIDEO_SCRIPT.md

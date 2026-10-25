@@ -1,0 +1,4 @@
+# Only used by Vercel for the /api function (see api/index.py).
+# For local development use backend/requirements.txt
+fastapi==0.115.6
+tzdata==2024.2
