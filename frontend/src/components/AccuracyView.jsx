@@ -36,7 +36,6 @@ function AccuracyView({ decisionTime }) {
 
   if (error) return <div className="error-box">{error}</div>
   if (!data) return <div className="loading">Calculating accuracy...</div>
-
   const overall = data.overall
   if (!overall) return <div className="warning-box">No forecast and actual pairs found for this decision time.</div>
 
