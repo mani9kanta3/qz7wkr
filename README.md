@@ -4,7 +4,7 @@ A web app for a UK energy supplier's day-ahead trading team. It shows the **late
 
 Scope: purchase decisions made in **January 2026** (decision days 1-31 Jan, so delivery days 2 Jan to 1 Feb 2026), using only Elexon wind data.
 
-**Live app:** https://YOUR-APP.vercel.app  <!-- replace after deploying -->
+**Live app:** https://uk-wind-forecast-monitor-lake.vercel.app
 
 ---
 
